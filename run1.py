@@ -1,1 +1,2 @@
-print("hi")
+import os
+os.system("calc.exe")
